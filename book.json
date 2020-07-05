@@ -30,7 +30,8 @@
         "search-pro",
         "chapter-fold",
         "flexible-alerts",
-        "favicon-absolute"
+        "favicon-absolute",
+        "auto-scroll-table"
     ],
     "pluginsConfig": {
 
