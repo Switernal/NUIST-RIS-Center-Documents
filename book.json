@@ -22,9 +22,15 @@
         "anchors",
         "sharing-plus",
         "anchor-navigation-ex",
-        "favicon"
+        "favicon",
+        "insert-logo"
     ],
     "pluginsConfig": {
+
+      "insert-logo": {
+         "url": "https://s1.ax1x.com/2020/03/18/8dG8JK.png",
+         "style": "background: none; max-height: 30px; min-height: 30px"
+       },
 
         "anchor-navigation-ex": {
             "showLevel": false
