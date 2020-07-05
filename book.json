@@ -52,12 +52,12 @@
         },
 
         "favicon":{
-            "shortcut": "./source/images/favicon.jpg",
-            "bookmark": "./source/images/favicon.jpg",
-            "appleTouch": "./source/images/apple-touch-icon.jpg",
+            "shortcut": "https://s1.ax1x.com/2020/07/05/USyDde.png",
+            "bookmark": "https://s1.ax1x.com/2020/07/05/USyDde.png",
+            "appleTouch": "https://s1.ax1x.com/2020/07/05/USyDde.png",
             "appleTouchMore": {
-                "120x120": "./source/images/apple-touch-icon.jpg",
-                "180x180": "./source/images/apple-touch-icon.jpg"
+                "120x120": "https://s1.ax1x.com/2020/07/05/USyDde.png",
+                "180x180": "https://s1.ax1x.com/2020/07/05/USyDde.png"
             }
         }
     }
