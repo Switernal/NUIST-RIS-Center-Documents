@@ -23,18 +23,36 @@
         "sharing-plus",
         "anchor-navigation-ex",
         "favicon",
-        "insert-logo"
+        "insert-logo",
+        "lightbox",
+        "emphasize",
+        "advanced-emoji",
+        "-lunr", 
+        "-search", 
+        "search-pro",
+        "chapter-fold",
+        "back-to-top-button",
+        "page-toc-button",
+        "flexible-alerts"
     ],
     "pluginsConfig": {
 
       "insert-logo": {
-         "url": "https://s1.ax1x.com/2020/03/18/8dG8JK.png",
+         "url": "https://s1.ax1x.com/2020/07/05/USdWEn.png",
          "style": "background: none; max-height: 75px; min-height: 30px"
        },
+
+        "pluginsConfig": {
+             "page-toc-button": {
+                   "maxTocDepth": 2,
+                   "minTocSize": 2
+             }
+        },
 
         "anchor-navigation-ex": {
             "showLevel": false
         },
+
         "favicon":{
             "shortcut": "./source/images/favicon.jpg",
             "bookmark": "./source/images/favicon.jpg",
