@@ -31,12 +31,13 @@
         "chapter-fold",
         "back-to-top-button",
         "page-toc-button",
-        "flexible-alerts"
+        "flexible-alerts",
+        "custom-favicon"
     ],
     "pluginsConfig": {
 
       "insert-logo": {
-         "url": "https://s1.ax1x.com/2020/07/05/USdWEn.png",
+         "url": "https://s1.ax1x.com/2020/07/05/US6Gm8.png",
          "style": "background: none; max-height: 75px; min-height: 30px"
        },
 
@@ -50,6 +51,8 @@
         "anchor-navigation-ex": {
             "showLevel": false
         },
+
+        "favicon": "https://s1.ax1x.com/2020/07/05/USyDde.png",
 
         "favicon":{
             "shortcut": "https://s1.ax1x.com/2020/07/05/USyDde.png",
