@@ -18,9 +18,9 @@
     "plugins": [
         "-sharing",
         "splitter",
-        "expandable-chapters-small",
+        // "expandable-chapters-small",
         "anchors",
-        "sharing-plus",
+        // "sharing-plus",
         "anchor-navigation-ex",
         "favicon",
         "insert-logo",
