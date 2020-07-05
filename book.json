@@ -31,7 +31,9 @@
         "chapter-fold",
         "flexible-alerts",
         "favicon-absolute",
-        "auto-scroll-table"
+        "auto-scroll-table",
+        "alerts",
+        "flexible-alerts"
     ],
     "pluginsConfig": {
 
