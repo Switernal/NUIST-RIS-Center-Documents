@@ -2,7 +2,7 @@
 
 ## 前言
 
-使用 Gitbook 可以轻松将 Markdown 文件转换为电子书，并部署在服务器上。本在线文档即使用Gitbook服务生成。
+使用 Gitbook 可以轻松将 Markdown 文件转换为电子书，并部署在服务器上。本在线文档即 Gitbook 服务生成。
 
 ## 注意事项
 
